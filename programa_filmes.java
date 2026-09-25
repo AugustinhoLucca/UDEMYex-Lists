@@ -155,7 +155,8 @@ public class programa_filmes {
                 System.out.println("Avaliação da Crítica: Desconhecida");
                 System.out.println(" ");
 
-            } else {
+            }
+            else {
 
                 System.out.println("Filme " + indice + ":");
                 System.out.println("Título: " + f.getTitulo());
