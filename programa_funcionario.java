@@ -31,8 +31,6 @@ public class programa_funcionario {
             Funcionario funcionarioObj = new Funcionario(id, nome, salario);
 
             list.add(funcionarioObj);
-
-
         }
 
         System.out.println("Digite o ID do funcionário à receber o aumento: ");
