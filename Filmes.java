@@ -110,6 +110,7 @@ public class Filmes {
         }
     }
 
+    
     public String verifClassificacaoIndicativa() {
         if (classIndicativa < 13) {
             return "Livre para todas as idades";
