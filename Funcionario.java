@@ -21,3 +21,4 @@ public class Funcionario {
         return salario * (valorAumento / 100);
     }
 }
+
